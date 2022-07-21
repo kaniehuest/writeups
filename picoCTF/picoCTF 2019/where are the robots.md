@@ -11,16 +11,18 @@ Can you find the robots?
 ## Solución
 
 En la página principal debemos ir al archivo **robots.txt**.
+
 ![](./imagenes/where-are-the-robots-1.png)
 ![](./imagenes/where-are-the-robots-3.png)
 
 Una vez ahí vemos un archivo llamado **477ce.html**.
+
 ![](./imagenes/where-are-the-robots-4.png)
 
 ![](where-are-the-robots-5.png)
 
 Si vamos al archivo podemos ver la flag.
-![](where-are-the-robots-6.png)
+![](./imagenes/where-are-the-robots-6.png)
 
 
 ## Flag

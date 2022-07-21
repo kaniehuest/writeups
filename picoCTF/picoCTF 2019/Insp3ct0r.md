@@ -21,7 +21,7 @@ En un comentario al final de la página está la primera parte de la flag `picoC
 En **mycss.css** vemos la segunda parte.
 ![](./imagenes/insp3ct0r-3.png)
 
-La tercera parte está en **myjs.js**
+La tercera parte está en **myjs.js**.
 ![](./imagenes/insp3ct0r-4.png)
 
 ## Flag
