@@ -1,16 +1,13 @@
 # PicoCTF 2019 - Insp3ct0r
 
 ## Descripción
-
 Kishor Balan tipped us off that the following code may need inspection.
 
 ## Hints
-
 - How do you inspect web code on a browser?
 - There's 3 parts
 
 ## Solución
-
 En la página principal presionas click derecho y luego "Ver código fuente de la página".
 ![](./imagenes/insp3ct0r-1.png)
 
@@ -22,6 +19,7 @@ En **mycss.css** vemos la segunda parte.
 ![](./imagenes/insp3ct0r-3.png)
 
 La tercera parte está en **myjs.js**.
+
 ![](./imagenes/insp3ct0r-4.png)
 
 ## Flag

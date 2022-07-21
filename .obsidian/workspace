@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "picoCTF/picoCTF 2019/where are the robots.md",
+            "file": "picoCTF/picoCTF 2019/Insp3ct0r.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/picoCTF 2019/where are the robots.md",
+                "file": "picoCTF/picoCTF 2019/Insp3ct0r.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/picoCTF 2019/where are the robots.md",
+                "file": "picoCTF/picoCTF 2019/Insp3ct0r.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/picoCTF 2019/where are the robots.md"
+                "file": "picoCTF/picoCTF 2019/Insp3ct0r.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "4d14f0f6d2384af2",
   "lastOpenFiles": [
-    "picoCTF/picoCTF 2019/Insp3ct0r.md",
     "picoCTF/picoCTF 2019/where are the robots.md",
+    "picoCTF/picoCTF 2019/Insp3ct0r.md",
     "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-5.png",
     "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-6.png",
     "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-4.png",
