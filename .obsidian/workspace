@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "b14d1836c6a433db",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d14f0f6d2384af2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "picoCTF/picoCTF 2019/Insp3ct0r.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abe217776a176b9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ddbce6863222ed0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2d37821643fd0e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3e032dcdeda24ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "934113bbfff5e5d3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0e696bbfe8e378f",
+    "type": "split",
+    "children": [
+      {
+        "id": "878a439a94e14806",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72ac9abdad6f1574",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "picoCTF/picoCTF 2019/Insp3ct0r.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8fef3c80b521a07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "picoCTF/picoCTF 2019/Insp3ct0r.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0b118a8e649da51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07ec5eee1e8d6bb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "picoCTF/picoCTF 2019/Insp3ct0r.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4d14f0f6d2384af2",
+  "lastOpenFiles": [
+    "Pasted image 20220719145143.png.md",
+    "picoCTF/picoCTF 2019/Insp3ct0r.md",
+    "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-1.png",
+    "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-6.png",
+    "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-5.png",
+    "imagenes/Pasted image 20220719145143.png.md",
+    "picoCTF/picoCTF 2019/imagenes/insp3ct0r-1.png",
+    "picoCTF/picoCTF 2019/where are the robots.md",
+    "picoCTF/picoCTF 2019/imagenes/logon-7.png",
+    "picoCTF/picoCTF 2019/logon.md"
+  ]
+}
