@@ -12,7 +12,7 @@ Kishor Balan tipped us off that the following code may need inspection.
 ## Solución
 
 En la página principal presionas click derecho y luego "Ver código fuente de la página".
-!()[https://github.com/kaniehuest/lepra-web-ctf/tree/master/picoCTF/picoCTF%202019/imagenes/insp3ct0r-1.png?raw=true]
+![](./imagenes/insp3ct0r-1.png)
 
 En un comentario al final de la página está la primera parte de la flag `picoCTF{tru3_d3`. El resto de la flag está en los archivos **mycss.css** y **myjs.js**.
 
