@@ -7,11 +7,9 @@
         "id": "4d14f0f6d2384af2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "picoCTF/picoCTF 2019/Insp3ct0r.md",
-            "mode": "source",
-            "source": false
+            "file": "picoCTF/picoCTF 2019/imagenes/insp3ct0r-1.png"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/picoCTF 2019/Insp3ct0r.md",
+                "file": "picoCTF/picoCTF 2019/imagenes/insp3ct0r-1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/picoCTF 2019/Insp3ct0r.md",
+                "file": "picoCTF/picoCTF 2019/imagenes/insp3ct0r-1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/picoCTF 2019/Insp3ct0r.md"
+                "file": "picoCTF/picoCTF 2019/imagenes/insp3ct0r-1.png"
               }
             }
           }
@@ -130,15 +128,15 @@
   },
   "active": "4d14f0f6d2384af2",
   "lastOpenFiles": [
-    "picoCTF/picoCTF 2019/where are the robots.md",
-    "picoCTF/picoCTF 2019/Insp3ct0r.md",
-    "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-5.png",
-    "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-6.png",
-    "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-4.png",
-    "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-3.png",
-    "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-2.png",
+    "picoCTF/picoCTF 2019/imagenes/insp3ct0r-2.png",
+    "picoCTF/picoCTF 2019/imagenes/insp3ct0r-3.png",
+    "picoCTF/picoCTF 2019/imagenes/insp3ct0r-4.png",
+    "picoCTF/picoCTF 2019/imagenes/logon-1.png",
+    "picoCTF/picoCTF 2019/imagenes/logon-2.png",
+    "picoCTF/picoCTF 2019/imagenes/logon-5.png",
     "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-1.png",
-    "picoCTF/picoCTF 2019/logon.md",
-    "Pasted image 20220719145143.png.md"
+    "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-3.png",
+    "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-4.png",
+    "picoCTF/picoCTF 2019/imagenes/where-are-the-robots-5.png"
   ]
 }
