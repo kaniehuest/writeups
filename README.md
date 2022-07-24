@@ -12,6 +12,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 |dont-use-client-side|[Link](./picoCTF/picoCTF%202019/dont-use-client-side.md)|
 |picobrowser|[Link](./picoCTF/picoCTF%202019/picobrowser.md)|
 |Client-side-again|[Link](./picoCTF/picoCTF%202019/client-side-again.md)|
-|irish-Name-Repo 1|[Link](./picoCTF/picoCTF%202019/irish-name-repo%201.md)|
+|Irish-Name-Repo 1|[Link](./picoCTF/picoCTF%202019/Irish-Name-Repo%201.md)|
+|Irish-Name-Repo 2|[Link](./picoCTF/picoCTF%202019/Irish-Name-Repo%202.md)|
 
 
