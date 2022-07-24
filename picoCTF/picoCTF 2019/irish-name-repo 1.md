@@ -21,7 +21,7 @@ En el campo de **Username** escribimos un payload de sqli muy simple `' or 1=1--
 
 ![](./imagenes/irish-name-repo-2.png)
 
-Y podemos visualizar la flag
+Y podemos visualizar la flag.
 
 ![](./imagenes/irish-name-repo-3.png)
 
