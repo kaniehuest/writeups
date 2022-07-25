@@ -7,8 +7,12 @@
         "id": "4d14f0f6d2384af2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "picoCTF/picoCTF 2019/Irish-Name-Repo 3.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "picoCTF/picoCTF 2019/Irish-Name-Repo 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "picoCTF/picoCTF 2019/Irish-Name-Repo 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "picoCTF/picoCTF 2019/Irish-Name-Repo 3.md"
+              }
             }
           }
         ]
@@ -122,15 +130,15 @@
   },
   "active": "4d14f0f6d2384af2",
   "lastOpenFiles": [
-    "picoCTF/picoCTF 2019/Irish-Name-Repo 3.md",
     "README.md",
+    "picoCTF/picoCTF 2019/Irish-Name-Repo 3.md",
+    "picoCTF/picoCTF 2019/imagenes/irish-name-repo-3-7.png",
+    "picoCTF/picoCTF 2019/imagenes/irish-name-repo-3-8.png",
+    "picoCTF/picoCTF 2019/Irish-Name-Repo 1.md",
     "picoCTF/picoCTF 2019/Irish-Name-Repo 2.md",
     "picoCTF/picoCTF 2019/picobrowser.md",
-    "picoCTF/picoCTF 2019/Irish-Name-Repo 1.md",
     "picoCTF/picoCTF 2019/where are the robots.md",
     "picoCTF/picoCTF 2019/logon.md",
-    "picoCTF/picoCTF 2019/Insp3ct0r.md",
-    "picoCTF/picoCTF 2019/client-side-again.md",
-    "picoCTF/picoCTF 2019/dont-use-client-side.md"
+    "picoCTF/picoCTF 2019/Insp3ct0r.md"
   ]
 }
