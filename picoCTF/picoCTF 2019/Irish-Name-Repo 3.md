@@ -65,7 +65,7 @@ Comprobamos que es rot13 porque anteriormente escribimos **or** y el servidor no
 
 Y si ahora escribimos **be** podemos ver que nos devuelve **or**.
 
-	![](./imagenes/irish-name-repo-3-13.png)
+![](./imagenes/irish-name-repo-3-13.png)
 
 Con esto en mente, nuestro payload quedaría así: 
 `' be 1=1 -- -`
