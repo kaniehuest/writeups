@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "picoCTF/picoCTF 2019/client-side-again.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/picoCTF 2019/client-side-again.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/picoCTF 2019/client-side-again.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/picoCTF 2019/client-side-again.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "88f9af58422524ff",
   "lastOpenFiles": [
+    "picoCTF/picoCTF 2021/Scavenget Hunt.md",
+    "picoCTF/picoCTF 2021/GET aHEAD.md",
+    "README.md",
+    "picoCTF/picoCTF 2021/Cookies.md",
+    "picoCTF/picoCTF 2019/client-side-again.md",
     "picoCTF/picoCTF 2019/dont-use-client-side.md",
     "picoCTF/picoCTF 2019/Insp3ct0r.md",
     "picoCTF/picoCTF 2019/Irish-Name-Repo 1.md",
     "picoCTF/picoCTF 2019/Irish-Name-Repo 2.md",
-    "picoCTF/picoCTF 2019/Irish-Name-Repo 3.md",
-    "picoCTF/picoCTF 2019/JaWT Scratchpad.md",
-    "picoCTF/picoCTF 2019/logon.md",
-    "picoCTF/picoCTF 2019/picobrowser.md",
-    "picoCTF/picoCTF 2019/where are the robots.md",
-    "picoCTF/picoCTF 2021/Cookies.md"
+    "picoCTF/picoCTF 2019/Irish-Name-Repo 3.md"
   ]
 }
