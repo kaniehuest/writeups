@@ -24,3 +24,5 @@ Una colección de mis writeups sobre retos de la categoría web.
 |GET aHEAD|[Link](./picoCTF/picoCTF%202021/GET%20aHEAD.md)|
 |Cookies|[Link](./picoCTF/picoCTF%202021/Cookies.md)|
 |Scavenger Hunt|[Link](./picoCTF/picoCTF%202021/Scavenger%20Hunt.md)|
+|Some Assembly Required 1|[Link](./picoCTF/picoCTF%202021/Some%20Assembly%20Required%201.md)|
+|Who are you?|[Link](./picoCTF/picoCTF%202021/Who%20are%you?.md)|

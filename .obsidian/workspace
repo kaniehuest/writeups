@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "picoCTF/picoCTF 2021/Some Assembly Required 1.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/picoCTF 2021/Some Assembly Required 1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/picoCTF 2021/Some Assembly Required 1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/picoCTF 2021/Some Assembly Required 1.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "88f9af58422524ff",
   "lastOpenFiles": [
-    "picoCTF/picoCTF 2021/imagenes/sar-2.png",
+    "picoCTF/picoCTF 2021/Who are you?.md",
+    "picoCTF/picoCTF 2021/imagenes/who-are-you-6.png",
+    "Untitled.md",
     "picoCTF/picoCTF 2021/Some Assembly Required 1.md",
+    "picoCTF/picoCTF 2021/imagenes/sar-2.png",
     "picoCTF/picoCTF 2021/Scavenger Hunt.md",
     "README.md",
     "picoCTF/picoCTF 2021/GET aHEAD.md",
     "picoCTF/picoCTF 2021/Cookies.md",
-    "picoCTF/picoCTF 2019/client-side-again.md",
-    "picoCTF/picoCTF 2019/dont-use-client-side.md",
-    "picoCTF/picoCTF 2019/Insp3ct0r.md",
-    "picoCTF/picoCTF 2019/Irish-Name-Repo 1.md"
+    "picoCTF/picoCTF 2019/client-side-again.md"
   ]
 }
