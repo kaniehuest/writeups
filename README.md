@@ -26,3 +26,9 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Scavenger Hunt|[Link](./picoCTF/picoCTF%202021/Scavenger%20Hunt.md)|
 |Some Assembly Required 1|[Link](./picoCTF/picoCTF%202021/Some%20Assembly%20Required%201.md)|
 |Who are you?|[Link](./picoCTF%2FpicoCTF%202021%2FWho%20are%20you%3F.md)
+
+
+## PicoMini by redpwn
+|Nombre del reto|Link|
+|---|---|
+|login|[Link](./picoCTF/picoMini%20by%20redpwn/login.md)|
