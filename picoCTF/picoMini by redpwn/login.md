@@ -22,7 +22,7 @@ Si te parece extraña esta comparación puedes leer este artículo sobre los [op
 
 ![](./imagenes/login-3.png)
 
-Usuario: `YWRtaW4`
+Usuario: `YWRtaW4` 
 Contraseña: `cGljb0NURns1M3J2M3JfNTNydjNyXzUzcnYzcl81M3J2M3JfNTNydjNyfQ`
 
 Si copias y pegas esto en los campos del login te dará error, porque estas cadenas están codificadas en **base64**. Si las decodificamos tendremos el siguiente resultado:

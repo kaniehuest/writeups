@@ -32,3 +32,4 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Nombre del reto|Link|
 |---|---|
 |login|[Link](./picoCTF/picoMini%20by%20redpwn/login.md)|
+|caas|[Link](./picoCTF/picoMini%20by%20redpwn/caas.md)|
