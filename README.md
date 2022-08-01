@@ -41,3 +41,5 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Basic Injection|[Link](./CTFlearn/Basic%20Injection.md)|
 |POST Practice|[Link](./CTFlearn/POST%20Practice.md)|
 |Don't Bump Your Head(er)|[Link](./CTFlearn%2FDon't%20Bump%20Your%20Head(er).md)|
+|My Blog|[Link](./CTFlearn%2FMy%20Blog.md)|
+
