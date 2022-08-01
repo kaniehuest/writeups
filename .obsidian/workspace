@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "88f9af58422524ff",
+        "id": "d4705169124115a9",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88f9af58422524ff",
+  "active": "d4705169124115a9",
   "lastOpenFiles": [
-    "picoCTF/picoCTF 2022/Forbidden Paths.md",
     "README.md",
-    "picoCTF/picoCTF 2022/Inspect HTML.md",
+    "picoCTF/picoCTF 2022/Power Cookie.md",
     "picoCTF/picoCTF 2022/Search Source.md",
+    "picoCTF/picoCTF 2022/Forbidden Paths.md",
+    "picoCTF/picoCTF 2022/Inspect HTML.md",
     "picoCTF/picoCTF 2022/Local Authority.md",
     "picoCTF/picoCTF 2022/Includes.md",
     "picoCTF/picoMini by redpwn/caas.md",
     "CTFlearn/Gobustme.md",
-    "CTFlearn/Inj3ction Time.md",
-    "CTFlearn/My Blog.md"
+    "CTFlearn/Inj3ction Time.md"
   ]
 }
