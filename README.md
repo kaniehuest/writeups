@@ -33,3 +33,11 @@ Una colección de mis writeups sobre retos de la categoría web.
 |---|---|
 |login|[Link](./picoCTF/picoMini%20by%20redpwn/login.md)|
 |caas|[Link](./picoCTF/picoMini%20by%20redpwn/caas.md)|
+
+
+## CTFlearn
+|Nombre del reto|Link|
+|---|---|
+|Basic Injection|[Link](./CTFlearn/Basic%20Injection.md)|
+|POST Practice|[Link](./CTFlearn/POST%20Practice.md)|
+|Don't Bump Your Head(er)|[Link](./CTFlearn%2FDon't%20Bump%20Your%20Head(er).md)|
