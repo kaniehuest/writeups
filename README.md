@@ -35,6 +35,12 @@ Una colección de mis writeups sobre retos de la categoría web.
 |caas|[Link](./picoCTF/picoMini%20by%20redpwn/caas.md)|
 
 
+## PicoCTF 2022
+|Nombre del reto|Link|
+|---|---|
+|Includes|[Link](./picoCTF%2FpicoCTF%202022%2FIncludes.md)|
+
+
 ## CTFlearn
 |Nombre del reto|Link|
 |---|---|

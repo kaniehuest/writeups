@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CTFlearn/Gobustme.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTFlearn/Gobustme.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTFlearn/Gobustme.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTFlearn/Gobustme.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,6 +130,8 @@
   },
   "active": "88f9af58422524ff",
   "lastOpenFiles": [
+    "picoCTF/picoCTF 2022/Includes.md",
+    "picoCTF/picoMini by redpwn/caas.md",
     "README.md",
     "CTFlearn/Gobustme.md",
     "CTFlearn/Inj3ction Time.md",
@@ -137,8 +139,6 @@
     "CTFlearn/POST Practice.md",
     "CTFlearn/Basic Injection.md",
     "CTFlearn/Don't Bump Your Head(er).md",
-    "picoCTF/picoMini by redpwn/caas.md",
-    "picoCTF/picoMini by redpwn/login.md",
-    "picoCTF/picoMini by redpwn/imagenes/login-1.png"
+    "picoCTF/picoMini by redpwn/login.md"
   ]
 }
