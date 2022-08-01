@@ -39,7 +39,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Nombre del reto|Link|
 |---|---|
 |Includes|[Link](./picoCTF%2FpicoCTF%202022%2FIncludes.md)|
-
+|Inspect HTML|[Link](./picoCTF%2FpicoCTF%202022%2FInspect%20HTML.md)|
 
 ## CTFlearn
 |Nombre del reto|Link|
