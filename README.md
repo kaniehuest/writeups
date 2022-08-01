@@ -42,6 +42,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Inspect HTML|[Link](./picoCTF%2FpicoCTF%202022%2FInspect%20HTML.md)|
 |Local Authority|[Link](./picoCTF%2FpicoCTF%202022%2FLocal%20Authority.md)|
 |Search Source|[Link](./picoCTF%2FpicoCTF%202022%2FSearch%20Source.md)|
+|Forbidden Paths|[Link](./picoCTF%2FpicoCTF%202022%2FForbidden%20Paths.md)|
 
 
 ## CTFlearn
