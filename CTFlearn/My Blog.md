@@ -22,7 +22,7 @@ Luego debes abrir las herramientas de desarrollador.
 
 Después vas a la pestaña **Storage** y en **Local Storage** verás una cookie que en realidad es la flag.
 
-No olvides sustituir **flag{}** por **CTFlearn{}** como dice en el hint de este reto.j
+No olvides sustituir **flag{}** por **CTFlearn{}** como dice en el hint de este reto.
 
 ![](./imagenes/my-blog-3.png)
 

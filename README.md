@@ -42,4 +42,5 @@ Una colección de mis writeups sobre retos de la categoría web.
 |POST Practice|[Link](./CTFlearn/POST%20Practice.md)|
 |Don't Bump Your Head(er)|[Link](./CTFlearn%2FDon't%20Bump%20Your%20Head(er).md)|
 |My Blog|[Link](./CTFlearn%2FMy%20Blog.md)|
+|Inj3ction Time|[Link](./CTFlearn%2FInj3ction%20Time.md)|
 
