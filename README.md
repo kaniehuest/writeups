@@ -3,6 +3,16 @@
 Una colección de mis writeups sobre retos de la categoría web.
 
 
+# Indice
+- [PicoCTF 2019](https://github.com/kaniehuest/lepra-web-ctf#picoctf-2019)
+- [PicoCTF 2021](https://github.com/kaniehuest/lepra-web-ctf#picoctf-2021)
+- [PicoMini by redwpn](https://github.com/kaniehuest/lepra-web-ctf#picomini-by-redpwn)
+- [PicoCTF 2022](https://github.com/kaniehuest/lepra-web-ctf#picoctf-2022)
+- [CTFlearn](https://github.com/kaniehuest/lepra-web-ctf#ctflearn)
+- [PortSwigger](https://github.com/kaniehuest/lepra-web-ctf#portswigger)
+	* [SQL injection](https://github.com/kaniehuest/lepra-web-ctf#sql-injection)
+
+
 ## PicoCTF 2019
 |Nombre del reto|Link|
 |---|---|
@@ -56,3 +66,11 @@ Una colección de mis writeups sobre retos de la categoría web.
 |My Blog|[Link](./CTFlearn%2FMy%20Blog.md)|
 |Inj3ction Time|[Link](./CTFlearn%2FInj3ction%20Time.md)|
 |Gobustme|[Link](./CTFlearn%2FGobustme.md)|
+
+
+## PortSwigger
+
+### SQL injection
+|Nombre del reto|Link|
+|---|---|
+|SQL injection vulnerability in WHERE clause allowing retrieval of hidden data|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20vulnerability%20in%20WHERE%20clause%20allowing%20retrieval%20of%20hidden%20data.md)|
