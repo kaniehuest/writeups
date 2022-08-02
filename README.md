@@ -1,4 +1,4 @@
-# Web writeups
+	# Web writeups
 
 Una colección de mis writeups sobre retos de la categoría web.
 
@@ -75,3 +75,4 @@ Una colección de mis writeups sobre retos de la categoría web.
 |---|---|
 |SQL injection vulnerability in WHERE clause allowing retrieval of hidden data|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20vulnerability%20in%20WHERE%20clause%20allowing%20retrieval%20of%20hidden%20data.md)|
 |SQL injection vulnerability allowing login bypass|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20vulnerability%20allowing%20login%20bypass.md)|
+|SQL injection UNION attack, determining the number of columns returned by the query|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20determining%20the%20number%20of%20columns%20returned%20by%20the%20query.md)|
