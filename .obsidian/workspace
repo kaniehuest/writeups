@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PortSwigger/SQL injection/SQL injection UNION attack, determining the number of columns returned by the query.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PortSwigger/SQL injection/SQL injection UNION attack, determining the number of columns returned by the query.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PortSwigger/SQL injection/SQL injection UNION attack, determining the number of columns returned by the query.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PortSwigger/SQL injection/SQL injection UNION attack, determining the number of columns returned by the query.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "d4705169124115a9",
   "lastOpenFiles": [
+    "PortSwigger/SQL injection/SQL injection UNION attack, finding a column containing text.md",
+    "PortSwigger/SQL injection/SQL injection vulnerability allowing login bypass.md",
     "README.md",
     "PortSwigger/SQL injection/SQL injection UNION attack, determining the number of columns returned by the query.md",
-    "PortSwigger/SQL injection/SQL injection vulnerability allowing login bypass.md",
     "PortSwigger/SQL injection/SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
     "picoCTF/picoCTF 2022/Inspect HTML.md",
     "picoCTF/picoCTF 2022/Roboto Sans.md",
     "picoCTF/picoCTF 2022/Power Cookie.md",
     "picoCTF/picoCTF 2022/Search Source.md",
-    "picoCTF/picoCTF 2022/Forbidden Paths.md",
-    "picoCTF/picoCTF 2022/Local Authority.md"
+    "picoCTF/picoCTF 2022/Forbidden Paths.md"
   ]
 }
