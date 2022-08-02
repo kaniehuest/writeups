@@ -74,3 +74,4 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Nombre del reto|Link|
 |---|---|
 |SQL injection vulnerability in WHERE clause allowing retrieval of hidden data|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20vulnerability%20in%20WHERE%20clause%20allowing%20retrieval%20of%20hidden%20data.md)|
+|SQL injection vulnerability allowing login bypass|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20vulnerability%20allowing%20login%20bypass.md)|
