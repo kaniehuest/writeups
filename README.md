@@ -55,6 +55,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Forbidden Paths|[Link](./picoCTF%2FpicoCTF%202022%2FForbidden%20Paths.md)|
 |Power Cookie|[Link](./picoCTF%2FpicoCTF%202022%2FPower%20Cookie.md)|
 |Roboto Sans|[Link](./picoCTF%2FpicoCTF%202022%2FRoboto%20Sans.md)|
+|Secrets|[Link](./picoCTF%2FpicoCTF%202022%2FSecrets.md)|
 
 
 ## CTFlearn
