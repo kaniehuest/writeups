@@ -57,6 +57,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Roboto Sans|[Link](./picoCTF%2FpicoCTF%202022%2FRoboto%20Sans.md)|
 |Secrets|[Link](./picoCTF%2FpicoCTF%202022%2FSecrets.md)|
 |SQL Direct|[Link](./picoCTF%2FpicoCTF%202022%2FSQL%20Direct.md)|
+|SQLiLite|[Link](./picoCTF%2FpicoCTF%202022%2FSQLiLite.md)|
 
 
 ## CTFlearn

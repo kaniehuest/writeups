@@ -130,6 +130,7 @@
   },
   "active": "d4705169124115a9",
   "lastOpenFiles": [
+    "picoCTF/picoCTF 2022/SQLiLite.md",
     "picoCTF/picoCTF 2022/SQL Direct.md",
     "README.md",
     "picoCTF/picoCTF 2022/Secrets.md",
@@ -138,7 +139,6 @@
     "PortSwigger/SQL injection/SQL injection vulnerability allowing login bypass.md",
     "PortSwigger/SQL injection/SQL injection UNION attack, determining the number of columns returned by the query.md",
     "PortSwigger/SQL injection/SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
-    "picoCTF/picoCTF 2022/Inspect HTML.md",
-    "picoCTF/picoCTF 2022/Roboto Sans.md"
+    "picoCTF/picoCTF 2022/Inspect HTML.md"
   ]
 }
