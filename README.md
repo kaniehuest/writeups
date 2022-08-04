@@ -83,4 +83,5 @@ Una colección de mis writeups sobre retos de la categoría web.
 |SQL injection UNION attack, finding a column containing text|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20finding%20a%20column%20containing%20text.md)|
 |SQL injection UNION attack, retrieving data from other tables|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20retrieving%20data%20from%20other%20tables.md)|
 |SQL injection UNION attack, retrieving multiple values in a single column|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20retrieving%20multiple%20values%20in%20a%20single%20column.md)|
+|SQL injection attack, querying the database type and version on Oracle|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20querying%20the%20database%20type%20and%20version%20on%20Oracle.md)|
 
