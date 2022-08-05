@@ -96,3 +96,4 @@ Una colección de mis writeups sobre retos de la categoría web.
 |SQL injection attack, querying the database type and version on Oracle|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20querying%20the%20database%20type%20and%20version%20on%20Oracle.md)|
 |SQL injection attack, querying the database type and version on MySQL and Microsoft|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20querying%20the%20database%20type%20and%20version%20on%20MySQL%20and%20Microsoft.md)|
 |SQL injection attack, listing the database contents on non-Oracle databases|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20listing%20the%20database%20contents%20on%20non-Oracle%20databases.md)|
+|SQL injection attack, listing the database contents on Oracle|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20listing%20the%20database%20contents%20on%20Oracle.md)|
