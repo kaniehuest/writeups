@@ -130,15 +130,15 @@
   },
   "active": "d4705169124115a9",
   "lastOpenFiles": [
+    "PortSwigger/SQL injection/SQL injection attack, listing the database contents on non-Oracle databases.md",
+    "README.md",
     "PortSwigger/SQL injection/SQL injection attack, querying the database type and version on MySQL and Microsoft.md",
     "PortSwigger/SQL injection/SQL injection attack, querying the database type and version on Oracle.md",
-    "README.md",
     "PortSwigger/SQL injection/SQL injection attack, querying the database type and version on MySQL and Microsoft 1.md",
     "PortSwigger/SQL injection/SQL injection UNION attack, determining the number of columns returned by the query.md",
     "PortSwigger/SQL injection/SQL injection UNION attack, retrieving multiple values in a single column.md",
     "PortSwigger/SQL injection/SQL injection vulnerability allowing login bypass.md",
     "PortSwigger/SQL injection/SQL injection UNION attack, retrieving data from other tables.md",
-    "PortSwigger/SQL injection/SQL injection UNION attack, finding a column containing text.md",
-    "picoCTF/picoCTF 2022/SQLiLite.md"
+    "PortSwigger/SQL injection/SQL injection UNION attack, finding a column containing text.md"
   ]
 }
