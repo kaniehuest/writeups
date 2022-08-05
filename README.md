@@ -14,7 +14,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 	* [SQL injection](https://github.com/kaniehuest/lepra-web-ctf#sql-injection)
 
 
-## PicoCTF 2019
+# PicoCTF 2019
 |Nombre del reto|Link|
 |---|---|
 |Insp3ct0r|[Link](./picoCTF/picoCTF%202019/Insp3ct0r.md)|
@@ -29,7 +29,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 |JaWT Scratchpad|[Link](./picoCTF/picoCTF%202019/JaWT%20Scratchpad.md)|
 
 
-## PicoCTF 2021
+# PicoCTF 2021
 |Nombre del reto|Link|
 |---|---|
 |GET aHEAD|[Link](./picoCTF/picoCTF%202021/GET%20aHEAD.md)|
@@ -39,14 +39,14 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Who are you?|[Link](./picoCTF%2FpicoCTF%202021%2FWho%20are%20you%3F.md)
 
 
-## PicoMini by redpwn
+# PicoMini by redpwn
 |Nombre del reto|Link|
 |---|---|
 |login|[Link](./picoCTF/picoMini%20by%20redpwn/login.md)|
 |caas|[Link](./picoCTF/picoMini%20by%20redpwn/caas.md)|
 
 
-## PicoCTF 2022
+# PicoCTF 2022
 |Nombre del reto|Link|
 |---|---|
 |Includes|[Link](./picoCTF%2FpicoCTF%202022%2FIncludes.md)|
@@ -61,7 +61,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 |SQLiLite|[Link](./picoCTF%2FpicoCTF%202022%2FSQLiLite.md)|
 
 
-## CTFlearn
+# CTFlearn
 |Nombre del reto|Link|
 |---|---|
 |Basic Injection|[Link](./CTFlearn/Basic%20Injection.md)|
@@ -72,16 +72,27 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Gobustme|[Link](./CTFlearn%2FGobustme.md)|
 
 
-## PortSwigger
+# PortSwigger
+
+## SQL injection
 
 ### SQL injection
 |Nombre del reto|Link|
 |---|---|
 |SQL injection vulnerability in WHERE clause allowing retrieval of hidden data|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20vulnerability%20in%20WHERE%20clause%20allowing%20retrieval%20of%20hidden%20data.md)|
 |SQL injection vulnerability allowing login bypass|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20vulnerability%20allowing%20login%20bypass.md)|
+
+### UNION attacks
+|Nombre del reto|Link|
+|---|---|
 |SQL injection UNION attack, determining the number of columns returned by the query|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20determining%20the%20number%20of%20columns%20returned%20by%20the%20query.md)|
 |SQL injection UNION attack, finding a column containing text|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20finding%20a%20column%20containing%20text.md)|
 |SQL injection UNION attack, retrieving data from other tables|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20retrieving%20data%20from%20other%20tables.md)|
 |SQL injection UNION attack, retrieving multiple values in a single column|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20retrieving%20multiple%20values%20in%20a%20single%20column.md)|
-|SQL injection attack, querying the database type and version on Oracle|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20querying%20the%20database%20type%20and%20version%20on%20Oracle.md)|
 
+
+## Examining the database
+|Nombre del reto|Link|
+|--|--|
+|SQL injection attack, querying the database type and version on Oracle|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20querying%20the%20database%20type%20and%20version%20on%20Oracle.md)|
+|SQL injection attack, querying the database type and version on MySQL and Microsoft|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20querying%20the%20database%20type%20and%20version%20on%20MySQL%20and%20Microsoft.md)|
