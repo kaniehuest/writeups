@@ -90,10 +90,18 @@ Una colección de mis writeups sobre retos de la categoría web.
 |SQL injection UNION attack, retrieving data from other tables|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20retrieving%20data%20from%20other%20tables.md)|
 |SQL injection UNION attack, retrieving multiple values in a single column|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20retrieving%20multiple%20values%20in%20a%20single%20column.md)|
 
-## Examining the database
+### Examining the database
 |Nombre del reto|Link|
 |--|--|
 |SQL injection attack, querying the database type and version on Oracle|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20querying%20the%20database%20type%20and%20version%20on%20Oracle.md)|
 |SQL injection attack, querying the database type and version on MySQL and Microsoft|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20querying%20the%20database%20type%20and%20version%20on%20MySQL%20and%20Microsoft.md)|
 |SQL injection attack, listing the database contents on non-Oracle databases|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20listing%20the%20database%20contents%20on%20non-Oracle%20databases.md)|
 |SQL injection attack, listing the database contents on Oracle|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20listing%20the%20database%20contents%20on%20Oracle.md)|
+
+
+## Authentication vulnerabilities
+
+### Authentication vulnerabilities
+|Nombre del reto|Link|
+|--|--|
+|Username enumeration via different responses|[Link](./PortSwigger%2FAuthentication%20vulnerabilities%2FUsername%20enumeration%20via%20different%20responses.md)|
