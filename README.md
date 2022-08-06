@@ -12,6 +12,8 @@ Una colección de mis writeups sobre retos de la categoría web.
 - [CTFlearn](https://github.com/kaniehuest/lepra-web-ctf#ctflearn)
 - [PortSwigger](https://github.com/kaniehuest/lepra-web-ctf#portswigger)
 	* [SQL injection](https://github.com/kaniehuest/lepra-web-ctf#sql-injection)
+	* [Authentication vulnerabilities](https://github.com/kaniehuest/lepra-web-ctf#authentication-vulnerabilities)
+	* [Directory traversal](https://github.com/kaniehuest/lepra-web-ctf#directory-traversal)
 
 
 # PicoCTF 2019
@@ -75,24 +77,14 @@ Una colección de mis writeups sobre retos de la categoría web.
 # PortSwigger
 
 ## SQL injection
-
-### SQL injection
 |Nombre del reto|Link|
 |---|---|
 |SQL injection vulnerability in WHERE clause allowing retrieval of hidden data|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20vulnerability%20in%20WHERE%20clause%20allowing%20retrieval%20of%20hidden%20data.md)|
 |SQL injection vulnerability allowing login bypass|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20vulnerability%20allowing%20login%20bypass.md)|
-
-### UNION attacks
-|Nombre del reto|Link|
-|---|---|
 |SQL injection UNION attack, determining the number of columns returned by the query|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20determining%20the%20number%20of%20columns%20returned%20by%20the%20query.md)|
 |SQL injection UNION attack, finding a column containing text|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20finding%20a%20column%20containing%20text.md)|
 |SQL injection UNION attack, retrieving data from other tables|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20retrieving%20data%20from%20other%20tables.md)|
 |SQL injection UNION attack, retrieving multiple values in a single column|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20UNION%20attack%2C%20retrieving%20multiple%20values%20in%20a%20single%20column.md)|
-
-### Examining the database
-|Nombre del reto|Link|
-|--|--|
 |SQL injection attack, querying the database type and version on Oracle|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20querying%20the%20database%20type%20and%20version%20on%20Oracle.md)|
 |SQL injection attack, querying the database type and version on MySQL and Microsoft|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20querying%20the%20database%20type%20and%20version%20on%20MySQL%20and%20Microsoft.md)|
 |SQL injection attack, listing the database contents on non-Oracle databases|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20listing%20the%20database%20contents%20on%20non-Oracle%20databases.md)|
@@ -100,8 +92,12 @@ Una colección de mis writeups sobre retos de la categoría web.
 
 
 ## Authentication vulnerabilities
-
-### Authentication vulnerabilities
 |Nombre del reto|Link|
 |--|--|
 |Username enumeration via different responses|[Link](./PortSwigger%2FAuthentication%20vulnerabilities%2FUsername%20enumeration%20via%20different%20responses.md)|
+
+
+## Directory traversal
+|Nombre del reto|Link|
+|--|--|
+|File path traversal, simple case|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20simple%20case.md)|
