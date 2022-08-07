@@ -113,3 +113,4 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Level 1(the idiot test)|[Link](./Hack%20This%20Site%2Fbasic%2FLevel%201(the%20idiot%20test).md)|
 |Level 2|[Link](./Hack%20This%20Site%2Fbasic%2FLevel%202.md)|
 |Level 3|[Link](./Hack%20This%20Site%2Fbasic%2FLevel%203.md)|
+|Level 4|[Link](./Hack%20This%20Site%2Fbasic%2FLevel%204.md)|
