@@ -78,7 +78,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 
 # PortSwigger
 
-## SQL injection
+### SQL injection
 |Nombre del reto|Link|
 |---|---|
 |SQL injection vulnerability in WHERE clause allowing retrieval of hidden data|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20vulnerability%20in%20WHERE%20clause%20allowing%20retrieval%20of%20hidden%20data.md)|
@@ -93,13 +93,13 @@ Una colección de mis writeups sobre retos de la categoría web.
 |SQL injection attack, listing the database contents on Oracle|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20listing%20the%20database%20contents%20on%20Oracle.md)|
 
 
-## Authentication vulnerabilities
+### Authentication vulnerabilities
 |Nombre del reto|Link|
 |--|--|
 |Username enumeration via different responses|[Link](./PortSwigger%2FAuthentication%20vulnerabilities%2FUsername%20enumeration%20via%20different%20responses.md)|
 
 
-## Directory traversal
+### Directory traversal
 |Nombre del reto|Link|
 |--|--|
 |File path traversal, simple case|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20simple%20case.md)|
@@ -107,7 +107,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 
 # Hack This Site
 
-## Basic
+### Basic
 |Nombre del reto|Link|
 |--|--|
 |Level 1(the idiot test)|[Link](./Hack%20This%20Site%2Fbasic%2FLevel%201(the%20idiot%20test).md)|
