@@ -130,15 +130,15 @@
   },
   "active": "d4705169124115a9",
   "lastOpenFiles": [
+    "Hack This Site/basic/Level 1(the idiot test).md",
+    "README.md",
     "PortSwigger/Directory traversal/File path traversal, simple case.md",
     "PortSwigger/Authentication vulnerabilities/Username enumeration via different responses.md",
-    "README.md",
     "PortSwigger/SQL injection/SQL injection attack, listing the database contents on non-Oracle databases.md",
     "PortSwigger/SQL injection/SQL injection attack, listing the database contents on Oracle.md",
     "PortSwigger/SQL injection/SQL injection attack, querying the database type and version on MySQL and Microsoft.md",
     "PortSwigger/SQL injection/SQL injection attack, querying the database type and version on Oracle.md",
     "PortSwigger/SQL injection/SQL injection attack, querying the database type and version on MySQL and Microsoft 1.md",
-    "PortSwigger/SQL injection/SQL injection UNION attack, determining the number of columns returned by the query.md",
-    "PortSwigger/SQL injection/SQL injection UNION attack, retrieving multiple values in a single column.md"
+    "PortSwigger/SQL injection/SQL injection UNION attack, determining the number of columns returned by the query.md"
   ]
 }

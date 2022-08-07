@@ -1,4 +1,4 @@
-# Web writeups
+ # Web writeups
 
 Una colección de mis writeups sobre retos de la categoría web.
 
@@ -14,6 +14,8 @@ Una colección de mis writeups sobre retos de la categoría web.
 	* [SQL injection](https://github.com/kaniehuest/lepra-web-ctf#sql-injection)
 	* [Authentication vulnerabilities](https://github.com/kaniehuest/lepra-web-ctf#authentication-vulnerabilities)
 	* [Directory traversal](https://github.com/kaniehuest/lepra-web-ctf#directory-traversal)
+* [Hack This Site] (https://github.com/kaniehuest/lepra-web-ctf#hack-this-site)
+	* [Basic](https://github.com/kaniehuest/lepra-web-ctf#basic)
 
 
 # PicoCTF 2019
@@ -101,3 +103,11 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Nombre del reto|Link|
 |--|--|
 |File path traversal, simple case|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20simple%20case.md)|
+
+
+# Hack This Site
+
+## Basic
+|Nombre del reto|Link|
+|--|--|
+|Level 1(the idiot test)|[Link](./Hack%20This%20Site%2Fbasic%2FLevel%201(the%20idiot%20test).md)|
