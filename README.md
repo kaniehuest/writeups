@@ -4,11 +4,11 @@ Una colección de mis writeups sobre retos de la categoría web.
 
 
 # Indice
-
-- [PicoCTF 2019](https://github.com/kaniehuest/lepra-web-ctf#picoctf-2019)
-- [PicoCTF 2021](https://github.com/kaniehuest/lepra-web-ctf#picoctf-2021)
-- [PicoMini by redwpn](https://github.com/kaniehuest/lepra-web-ctf#picomini-by-redpwn)
-- [PicoCTF 2022](https://github.com/kaniehuest/lepra-web-ctf#picoctf-2022)
+- [PicoCTF](https://github.com/kaniehuest/lepra-web-ctf#picoctf)
+	* [PicoCTF 2019](https://github.com/kaniehuest/lepra-web-ctf#picoctf-2019)
+	* [PicoCTF 2021](https://github.com/kaniehuest/lepra-web-ctf#picoctf-2021)
+	* [PicoMini by redwpn](https://github.com/kaniehuest/lepra-web-ctf#picomini-by-redpwn)
+	* [PicoCTF 2022](https://github.com/kaniehuest/lepra-web-ctf#picoctf-2022)
 - [CTFlearn](https://github.com/kaniehuest/lepra-web-ctf#ctflearn)
 - [PortSwigger](https://github.com/kaniehuest/lepra-web-ctf#portswigger)
 	* [SQL injection](https://github.com/kaniehuest/lepra-web-ctf#sql-injection)
@@ -18,7 +18,9 @@ Una colección de mis writeups sobre retos de la categoría web.
 	* [Basic](https://github.com/kaniehuest/lepra-web-ctf#basic)
 
 
-# PicoCTF 2019
+# PicoCTF
+
+### PicoCTF 2019
 |Nombre del reto|Link|
 |---|---|
 |Insp3ct0r|[Link](./picoCTF/picoCTF%202019/Insp3ct0r.md)|
@@ -32,8 +34,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Irish-Name-Repo 3|[Link](./picoCTF/picoCTF%202019/Irish-Name-Repo%203.md)|
 |JaWT Scratchpad|[Link](./picoCTF/picoCTF%202019/JaWT%20Scratchpad.md)|
 
-
-# PicoCTF 2021
+### PicoCTF 2021
 |Nombre del reto|Link|
 |---|---|
 |GET aHEAD|[Link](./picoCTF/picoCTF%202021/GET%20aHEAD.md)|
@@ -42,15 +43,13 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Some Assembly Required 1|[Link](./picoCTF/picoCTF%202021/Some%20Assembly%20Required%201.md)|
 |Who are you?|[Link](./picoCTF%2FpicoCTF%202021%2FWho%20are%20you%3F.md)
 
-
-# PicoMini by redpwn
+### PicoMini by redpwn
 |Nombre del reto|Link|
 |---|---|
 |login|[Link](./picoCTF/picoMini%20by%20redpwn/login.md)|
 |caas|[Link](./picoCTF/picoMini%20by%20redpwn/caas.md)|
 
-
-# PicoCTF 2022
+### PicoCTF 2022
 |Nombre del reto|Link|
 |---|---|
 |Includes|[Link](./picoCTF%2FpicoCTF%202022%2FIncludes.md)|
@@ -97,6 +96,11 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Nombre del reto|Link|
 |--|--|
 |Username enumeration via different responses|[Link](./PortSwigger%2FAuthentication%20vulnerabilities%2FUsername%20enumeration%20via%20different%20responses.md)|
+
+### Directory traversal
+|Nombre del reto|Link|
+|--|--|
+|File path traversal, simple case|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20simple%20case.md)|
 
 
 # Hack This Site
