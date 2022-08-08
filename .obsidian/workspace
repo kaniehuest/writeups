@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hack This Site/basic/Level 4.md",
+            "file": "Hack This Site/basic/Level 5.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hack This Site/basic/Level 4.md",
+                "file": "Hack This Site/basic/Level 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hack This Site/basic/Level 4.md",
+                "file": "Hack This Site/basic/Level 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hack This Site/basic/Level 4.md"
+                "file": "Hack This Site/basic/Level 5.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   "active": "d4705169124115a9",
   "lastOpenFiles": [
     "README.md",
+    "Hack This Site/basic/Level 5.md",
     "Hack This Site/basic/Level 4.md",
     "Hack This Site/basic/Level 3.md",
     "imagenes/lab1-1.png.md",
@@ -138,7 +139,6 @@
     "Hack This Site/basic/Level 2.md",
     "Untitled.md",
     "PortSwigger/Directory traversal/File path traversal, simple case.md",
-    "PortSwigger/Authentication vulnerabilities/Username enumeration via different responses.md",
-    "PortSwigger/SQL injection/SQL injection attack, listing the database contents on non-Oracle databases.md"
+    "PortSwigger/Authentication vulnerabilities/Username enumeration via different responses.md"
   ]
 }
