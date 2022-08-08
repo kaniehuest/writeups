@@ -8,4 +8,4 @@ Sam has gotten wise to all the people who wrote their own forms to get the passw
 
 ## Solución
 
-Este se puede resolver de la misma forma que el **[Level 4](./Hack%20This%20Site%2Fbasic%2FLevel%204.md)**.
+Este se puede resolver de la misma forma que el **[Level 4](https://github.com/kaniehuest/lepra-web-ctf/blob/master/Hack%20This%20Site/basic/Level%204.md)**.
