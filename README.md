@@ -99,12 +99,6 @@ Una colección de mis writeups sobre retos de la categoría web.
 |Username enumeration via different responses|[Link](./PortSwigger%2FAuthentication%20vulnerabilities%2FUsername%20enumeration%20via%20different%20responses.md)|
 
 
-### Directory traversal
-|Nombre del reto|Link|
-|--|--|
-|File path traversal, simple case|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20simple%20case.md)|
-
-
 # Hack This Site
 
 ### Basic
