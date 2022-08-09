@@ -102,6 +102,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 |File path traversal, simple case|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20simple%20case.md)|
 |File path traversal, traversal sequences blocked with absolute path bypass|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20traversal%20sequences%20blocked%20with%20absolute%20path%20bypass.md)|
 |File path traversal, traversal sequences stripped non-recursively|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20traversal%20sequences%20stripped%20non-recursively.md)|
+|File path traversal, traversal sequences stripped with superfluous URL-decode|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20traversal%20sequences%20stripped%20with%20superfluous%20URL-decode.md)|
 
 
 # Hack This Site
