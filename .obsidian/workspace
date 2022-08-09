@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -130,15 +130,15 @@
   },
   "active": "d4705169124115a9",
   "lastOpenFiles": [
-    "PortSwigger/Directory traversal/File path traversal, traversal sequences stripped with superfluous URL-decode.md",
+    "PortSwigger/Directory traversal/File path traversal, validation of start of path.md",
     "README.md",
+    "PortSwigger/Directory traversal/File path traversal, traversal sequences stripped with superfluous URL-decode.md",
     "PortSwigger/Directory traversal/File path traversal, traversal sequences stripped non-recursively.md",
     "PortSwigger/Directory traversal/File path traversal, traversal sequences blocked with absolute path bypass.md",
     "Untitled.md",
     "PortSwigger/Directory traversal/File path traversal, simple case.md",
     "PortSwigger/Authentication vulnerabilities/Username enumeration via different responses.md",
     "PortSwigger/SQL injection/SQL injection attack, listing the database contents on non-Oracle databases.md",
-    "Hack This Site/basic/Level 5.md",
-    "Hack This Site/basic/Level 4.md"
+    "Hack This Site/basic/Level 5.md"
   ]
 }
