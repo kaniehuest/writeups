@@ -91,7 +91,6 @@ Una colección de mis writeups sobre retos de la categoría web.
 |SQL injection attack, listing the database contents on non-Oracle databases|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20listing%20the%20database%20contents%20on%20non-Oracle%20databases.md)|
 |SQL injection attack, listing the database contents on Oracle|[Link](./PortSwigger%2FSQL%20injection%2FSQL%20injection%20attack%2C%20listing%20the%20database%20contents%20on%20Oracle.md)|
 
-
 ### Authentication vulnerabilities
 |Nombre del reto|Link|
 |--|--|
@@ -102,6 +101,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 |--|--|
 |File path traversal, simple case|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20simple%20case.md)|
 |File path traversal, traversal sequences blocked with absolute path bypass|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20traversal%20sequences%20blocked%20with%20absolute%20path%20bypass.md)|
+|File path traversal, traversal sequences stripped non-recursively|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20traversal%20sequences%20stripped%20non-recursively.md)|
 
 
 # Hack This Site
