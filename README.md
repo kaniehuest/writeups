@@ -104,6 +104,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 |File path traversal, traversal sequences stripped non-recursively|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20traversal%20sequences%20stripped%20non-recursively.md)|
 |File path traversal, traversal sequences stripped with superfluous URL-decode|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20traversal%20sequences%20stripped%20with%20superfluous%20URL-decode.md)|
 |File path traversal, validation of start of path|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20validation%20of%20start%20of%20path.md)|
+|File path traversal, validation of file extension with null byte bypass|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20validation%20of%20file%20extension%20with%20null%20byte%20bypass.md)|
 
 
 # Hack This Site
