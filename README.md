@@ -19,6 +19,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 
 
 # PicoCTF
+Link de la página: https://picoctf.org/
 
 ### PicoCTF 2019
 |Nombre del reto|Link|
@@ -65,6 +66,8 @@ Una colección de mis writeups sobre retos de la categoría web.
 
 
 # CTFlearn
+Link de la página: https://ctflearn.com/
+
 |Nombre del reto|Link|
 |---|---|
 |Basic Injection|[Link](./CTFlearn/Basic%20Injection.md)|
@@ -76,6 +79,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 
 
 # PortSwigger
+Link de la página: https://portswigger.net/web-security
 
 ### SQL injection
 |Nombre del reto|Link|
@@ -106,8 +110,14 @@ Una colección de mis writeups sobre retos de la categoría web.
 |File path traversal, validation of start of path|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20validation%20of%20start%20of%20path.md)|
 |File path traversal, validation of file extension with null byte bypass|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20validation%20of%20file%20extension%20with%20null%20byte%20bypass.md)|
 
+### OS command injection
+|Nombre del reto|Link|
+|--|--|
+|OS command injection, simple case|[Link](./PortSwigger%2FOS%20command%20injection%2FOS%20command%20injection%2C%20simple%20case.md)|
+
 
 # Hack This Site
+Link de la página: https://www.hackthissite.org/
 
 ### Basic
 |Nombre del reto|Link|
