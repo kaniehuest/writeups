@@ -14,7 +14,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 	* [SQL injection](https://github.com/kaniehuest/lepra-web-ctf#sql-injection)
 	* [Authentication vulnerabilities](https://github.com/kaniehuest/lepra-web-ctf#authentication-vulnerabilities)
 	* [Directory traversal](https://github.com/kaniehuest/lepra-web-ctf#directory-traversal)
-	* [OS command injection (Sin Burpsuite)](https://github.com/kaniehuest/lepra-web-ctf#os-command-injection)
+	* [OS command injection (Sin Burpsuite)](https://github.com/kaniehuest/lepra-web-ctf#os-command-injection-sin-burpsuite)
 - [Hack This Site](https://github.com/kaniehuest/lepra-web-ctf#hack-this-site)
 	* [Basic](https://github.com/kaniehuest/lepra-web-ctf#basic)
 

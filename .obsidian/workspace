@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PortSwigger/OS command injection/Blind OS command injection with output redirection.md",
-            "mode": "preview",
+            "file": "README.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PortSwigger/OS command injection/Blind OS command injection with output redirection.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PortSwigger/OS command injection/Blind OS command injection with output redirection.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PortSwigger/OS command injection/Blind OS command injection with output redirection.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "d4705169124115a9",
   "lastOpenFiles": [
-    "README.md",
     "PortSwigger/OS command injection/Blind OS command injection with output redirection.md",
+    "README.md",
     "PortSwigger/OS command injection/Blind OS command injection with time delays.md",
     "PortSwigger/OS command injection/OS command injection, simple case.md",
     "PortSwigger/OS command injection/imagenes/lab1-5.png",
