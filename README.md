@@ -118,6 +118,7 @@ Link de la página: https://portswigger.net/web-security
 |Nombre del reto|Link|
 |--|--|
 |OS command injection, simple case|[Link](./PortSwigger%2FOS%20command%20injection%2FOS%20command%20injection%2C%20simple%20case.md)|
+|Blind OS command injection with time delays|[Link](./PortSwigger%2FOS%20command%20injection%2FBlind%20OS%20command%20injection%20with%20time%20delays.md)|
 
 
 
