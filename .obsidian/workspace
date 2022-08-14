@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
+            "file": "PortSwigger/OS command injection/Blind OS command injection with output redirection.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "PortSwigger/OS command injection/Blind OS command injection with output redirection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "PortSwigger/OS command injection/Blind OS command injection with output redirection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "PortSwigger/OS command injection/Blind OS command injection with output redirection.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "d4705169124115a9",
   "lastOpenFiles": [
+    "README.md",
+    "PortSwigger/OS command injection/Blind OS command injection with output redirection.md",
     "PortSwigger/OS command injection/Blind OS command injection with time delays.md",
     "PortSwigger/OS command injection/OS command injection, simple case.md",
-    "README.md",
     "PortSwigger/OS command injection/imagenes/lab1-5.png",
     "PortSwigger/SQL injection/SQL injection attack, listing the database contents on non-Oracle databases.md",
     "PortSwigger/Information disclosure/Untitled.md",
     "PortSwigger/Directory traversal/File path traversal, validation of file extension with null byte bypass.md",
     "PortSwigger/Directory traversal/File path traversal, validation of start of path.md",
-    "PortSwigger/Directory traversal/File path traversal, traversal sequences stripped with superfluous URL-decode.md",
-    "PortSwigger/Directory traversal/File path traversal, traversal sequences stripped non-recursively.md"
+    "PortSwigger/Directory traversal/File path traversal, traversal sequences stripped with superfluous URL-decode.md"
   ]
 }

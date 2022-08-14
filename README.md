@@ -14,7 +14,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 	* [SQL injection](https://github.com/kaniehuest/lepra-web-ctf#sql-injection)
 	* [Authentication vulnerabilities](https://github.com/kaniehuest/lepra-web-ctf#authentication-vulnerabilities)
 	* [Directory traversal](https://github.com/kaniehuest/lepra-web-ctf#directory-traversal)
-	* [OS command injection](https://github.com/kaniehuest/lepra-web-ctf#os-command-injection)
+	* [OS command injection (Sin Burpsuite)](https://github.com/kaniehuest/lepra-web-ctf#os-command-injection)
 - [Hack This Site](https://github.com/kaniehuest/lepra-web-ctf#hack-this-site)
 	* [Basic](https://github.com/kaniehuest/lepra-web-ctf#basic)
 
@@ -114,11 +114,12 @@ Link de la página: https://portswigger.net/web-security
 |File path traversal, validation of start of path|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20validation%20of%20start%20of%20path.md)|
 |File path traversal, validation of file extension with null byte bypass|[Link](./PortSwigger%2FDirectory%20traversal%2FFile%20path%20traversal%2C%20validation%20of%20file%20extension%20with%20null%20byte%20bypass.md)|
 
-### OS command injection
+### OS command injection (Sin Burpsuite)
 |Nombre del reto|Link|
 |--|--|
 |OS command injection, simple case|[Link](./PortSwigger%2FOS%20command%20injection%2FOS%20command%20injection%2C%20simple%20case.md)|
 |Blind OS command injection with time delays|[Link](./PortSwigger%2FOS%20command%20injection%2FBlind%20OS%20command%20injection%20with%20time%20delays.md)|
+|Blind OS command injection with output redirection|[Link](./PortSwigger%2FOS%20command%20injection%2FBlind%20OS%20command%20injection%20with%20output%20redirection.md)|
 
 
 
