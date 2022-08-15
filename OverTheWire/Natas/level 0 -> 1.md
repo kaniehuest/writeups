@@ -5,6 +5,7 @@
 
 ```
 Username: natas1
+Password: gtVrDuiDfck831PqWsLEZy5gyDz1clto
 URL:      http://natas1.natas.labs.overthewire.org
 ```
 

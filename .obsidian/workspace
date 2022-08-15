@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OverTheWire/Natas/level 0 -> 1.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OverTheWire/Natas/level 0 -> 1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OverTheWire/Natas/level 0 -> 1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OverTheWire/Natas/level 0 -> 1.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "d4705169124115a9",
   "lastOpenFiles": [
+    "OverTheWire/Natas/level 1 -> 2.md",
     "README.md",
     "OverTheWire/Natas/level 0 -> 1.md",
     "OverTheWire/Natas/level 0.md",
+    "picoCTF/picoCTF 2022/Includes.md",
     "Hack This Site/basic/Level 2.md",
     "imagenes/lab3-1.png.md",
     "PortSwigger/Information disclosure/Information disclosure on debug page.md",
     "PortSwigger/Information disclosure/Information disclosure in error messages.md",
-    "PortSwigger/OS command injection/Blind OS command injection with output redirection.md",
-    "PortSwigger/OS command injection/Blind OS command injection with time delays.md",
-    "PortSwigger/OS command injection/OS command injection, simple case.md"
+    "PortSwigger/OS command injection/Blind OS command injection with output redirection.md"
   ]
 }

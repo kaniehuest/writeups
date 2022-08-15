@@ -1,6 +1,15 @@
 # OverTheWire - Natas 0
 
 
+## Información
+
+```
+Username: natas0
+Password: natas0
+URL:      http://natas0.natas.labs.overthewire.org
+```
+
+
 ## Solución
 
 Ejecutamos curl con el parámetro `-u` para ingresar el nombre de usuario y contraseña y la url al final.
