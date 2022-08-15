@@ -18,6 +18,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 	* [Information disclosure](https://github.com/kaniehuest/writeups#information-disclosure)
 - [Hack This Site](https://github.com/kaniehuest/writeups#hack-this-site)
 	* [Basic](https://github.com/kaniehuest/writeups#basic)
+	* [Realistic](https://github.com/kaniehuest/writeups#realistic)
 - [OverTheWire](https://github.com/kaniehuest/writeups#overthewire)
 	* [Natas](https://github.com/kaniehuest/writeups#natas)
 
