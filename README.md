@@ -15,6 +15,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 	* [Authentication vulnerabilities](https://github.com/kaniehuest/lepra-web-ctf#authentication-vulnerabilities)
 	* [Directory traversal](https://github.com/kaniehuest/lepra-web-ctf#directory-traversal)
 	* [OS command injection (Sin Burpsuite)](https://github.com/kaniehuest/lepra-web-ctf#os-command-injection-sin-burpsuite)
+	* [Information disclosure](https://github.com/kaniehuest/lepra-web-ctf#information-disclosure)
 - [Hack This Site](https://github.com/kaniehuest/lepra-web-ctf#hack-this-site)
 	* [Basic](https://github.com/kaniehuest/lepra-web-ctf#basic)
 
@@ -120,6 +121,11 @@ Link de la página: https://portswigger.net/web-security
 |OS command injection, simple case|[Link](./PortSwigger%2FOS%20command%20injection%2FOS%20command%20injection%2C%20simple%20case.md)|
 |Blind OS command injection with time delays|[Link](./PortSwigger%2FOS%20command%20injection%2FBlind%20OS%20command%20injection%20with%20time%20delays.md)|
 |Blind OS command injection with output redirection|[Link](./PortSwigger%2FOS%20command%20injection%2FBlind%20OS%20command%20injection%20with%20output%20redirection.md)|
+
+### Information disclosure
+|Nombre del reto|Link|
+|--|--|
+|Information disclosure in error messages|[Link](./PortSwigger%2FInformation%20disclosure%2FInformation%20disclosure%20in%20error%20messages.md)|
 
 
 
