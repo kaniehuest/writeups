@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "OverTheWire/Natas/level 1 -> 2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "OverTheWire/Natas/level 1 -> 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "OverTheWire/Natas/level 1 -> 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "OverTheWire/Natas/level 1 -> 2.md"
               }
             }
           }
@@ -130,10 +130,10 @@
   },
   "active": "d4705169124115a9",
   "lastOpenFiles": [
+    "OverTheWire/Natas/level 0.md",
+    "OverTheWire/Natas/level 0 -> 1.md",
     "OverTheWire/Natas/level 1 -> 2.md",
     "README.md",
-    "OverTheWire/Natas/level 0 -> 1.md",
-    "OverTheWire/Natas/level 0.md",
     "picoCTF/picoCTF 2022/Includes.md",
     "Hack This Site/basic/Level 2.md",
     "imagenes/lab3-1.png.md",

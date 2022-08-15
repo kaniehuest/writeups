@@ -38,7 +38,12 @@ sudo apt install html2text
 
 Ahora volvemos a ejecutar el mismo comando anterior para ver la página `files` pero agregando un pipe y el comando `html2text`.
 
+```bash
+curl -u natas2:ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi http://natas2.natas.labs.overthewire.org/files/ | html2text 
+```
+
 ![](./imagenes/natas1->2-3.png)
+
 Todo se ve mejor pero esta cabecera de curl molesta.
 
 ![](./imagenes/natas1->2-4.png)
