@@ -1,4 +1,4 @@
- # Web writeups
+# Web writeups
 
 Una colección de mis writeups sobre retos de la categoría web.
 
@@ -129,6 +129,7 @@ Link de la página: https://portswigger.net/web-security
 |--|--|
 |Information disclosure in error messages|[Link](./PortSwigger%2FInformation%20disclosure%2FInformation%20disclosure%20in%20error%20messages.md)|
 |Information disclosure on debug page|[Link](./PortSwigger%2FInformation%20disclosure%2FInformation%20disclosure%20on%20debug%20page.md)|
+|Source code disclosure via backup files|[Link](./PortSwigger%2FInformation%20disclosure%2FSource%20code%20disclosure%20via%20backup%20files.md)|
 
 
 
