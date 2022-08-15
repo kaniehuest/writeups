@@ -126,6 +126,7 @@ Link de la página: https://portswigger.net/web-security
 |Nombre del reto|Link|
 |--|--|
 |Information disclosure in error messages|[Link](./PortSwigger%2FInformation%20disclosure%2FInformation%20disclosure%20in%20error%20messages.md)|
+|Information disclosure on debug page|[Link](./PortSwigger%2FInformation%20disclosure%2FInformation%20disclosure%20on%20debug%20page.md)|
 
 
 
