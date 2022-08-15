@@ -130,15 +130,15 @@
   },
   "active": "d4705169124115a9",
   "lastOpenFiles": [
+    "OverTheWire/Natas/level 0.md",
+    "README.md",
+    "Hack This Site/basic/Level 2.md",
+    "imagenes/lab3-1.png.md",
     "PortSwigger/Information disclosure/Information disclosure on debug page.md",
     "PortSwigger/Information disclosure/Information disclosure in error messages.md",
-    "README.md",
     "PortSwigger/OS command injection/Blind OS command injection with output redirection.md",
     "PortSwigger/OS command injection/Blind OS command injection with time delays.md",
     "PortSwigger/OS command injection/OS command injection, simple case.md",
-    "PortSwigger/OS command injection/imagenes/lab1-5.png",
-    "PortSwigger/SQL injection/SQL injection attack, listing the database contents on non-Oracle databases.md",
-    "PortSwigger/Directory traversal/File path traversal, validation of file extension with null byte bypass.md",
-    "PortSwigger/Directory traversal/File path traversal, validation of start of path.md"
+    "PortSwigger/OS command injection/imagenes/lab1-5.png"
   ]
 }

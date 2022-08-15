@@ -18,6 +18,8 @@ Una colección de mis writeups sobre retos de la categoría web.
 	* [Information disclosure](https://github.com/kaniehuest/lepra-web-ctf#information-disclosure)
 - [Hack This Site](https://github.com/kaniehuest/lepra-web-ctf#hack-this-site)
 	* [Basic](https://github.com/kaniehuest/lepra-web-ctf#basic)
+- [OverTheWire](https://github.com/kaniehuest/lepra-web-ctf#overthewire)
+	* [Natas](https://github.com/kaniehuest/lepra-web-ctf#natas)
 
 
 
@@ -141,3 +143,13 @@ Link de la página: https://www.hackthissite.org/
 |Level 3|[Link](./Hack%20This%20Site%2Fbasic%2FLevel%203.md)|
 |Level 4|[Link](./Hack%20This%20Site%2Fbasic%2FLevel%204.md)|
 |Level 5|[Link](./Hack%20This%20Site%2Fbasic%2FLevel%205.md)|
+
+
+
+# OverTheWire
+Link de la página: https://overthewire.org/wargames/
+
+### Natas
+|Nombre del reto|Link|
+|--|--|
+|Natas0|[Link](./OverTheWire%2FNatas%2Flevel%200.md)|
