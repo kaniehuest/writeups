@@ -153,3 +153,4 @@ Link de la página: https://overthewire.org/wargames/
 |Nombre del reto|Link|
 |--|--|
 |Natas0|[Link](./OverTheWire%2FNatas%2Flevel%200.md)|
+|Natas 0 -> 1|[Link](./OverTheWire%2FNatas%2Flevel%200%20-%3E%201.md)|
