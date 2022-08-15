@@ -4,22 +4,22 @@ Una colección de mis writeups sobre retos de la categoría web.
 
 
 # Indice
-- [PicoCTF](https://github.com/kaniehuest/lepra-web-ctf#picoctf)
-	* [PicoCTF 2019](https://github.com/kaniehuest/lepra-web-ctf#picoctf-2019)
-	* [PicoCTF 2021](https://github.com/kaniehuest/lepra-web-ctf#picoctf-2021)
-	* [PicoMini by redwpn](https://github.com/kaniehuest/lepra-web-ctf#picomini-by-redpwn)
-	* [PicoCTF 2022](https://github.com/kaniehuest/lepra-web-ctf#picoctf-2022)
-- [CTFlearn](https://github.com/kaniehuest/lepra-web-ctf#ctflearn)
-- [PortSwigger](https://github.com/kaniehuest/lepra-web-ctf#portswigger)
-	* [SQL injection](https://github.com/kaniehuest/lepra-web-ctf#sql-injection)
-	* [Authentication vulnerabilities](https://github.com/kaniehuest/lepra-web-ctf#authentication-vulnerabilities)
-	* [Directory traversal](https://github.com/kaniehuest/lepra-web-ctf#directory-traversal)
-	* [OS command injection (Sin Burpsuite)](https://github.com/kaniehuest/lepra-web-ctf#os-command-injection-sin-burpsuite)
-	* [Information disclosure](https://github.com/kaniehuest/lepra-web-ctf#information-disclosure)
-- [Hack This Site](https://github.com/kaniehuest/lepra-web-ctf#hack-this-site)
-	* [Basic](https://github.com/kaniehuest/lepra-web-ctf#basic)
-- [OverTheWire](https://github.com/kaniehuest/lepra-web-ctf#overthewire)
-	* [Natas](https://github.com/kaniehuest/lepra-web-ctf#natas)
+- [PicoCTF](https://github.com/kaniehuest/writeups#picoctf)
+	* [PicoCTF 2019](https://github.com/kaniehuest/writeups#picoctf-2019)
+	* [PicoCTF 2021](https://github.com/kaniehuest/writeups#picoctf-2021)
+	* [PicoMini by redwpn](https://github.com/kaniehuest/writeups#picomini-by-redpwn)
+	* [PicoCTF 2022](https://github.com/kaniehuest/writeups#picoctf-2022)
+- [CTFlearn](https://github.com/kaniehuest/writeups#ctflearn)
+- [PortSwigger](https://github.com/kaniehuest/writeups#portswigger)
+	* [SQL injection](https://github.com/kaniehuest/writeups#sql-injection)
+	* [Authentication vulnerabilities](https://github.com/kaniehuest/writeups#authentication-vulnerabilities)
+	* [Directory traversal](https://github.com/kaniehuest/writeups#directory-traversal)
+	* [OS command injection (Sin Burpsuite)](https://github.com/kaniehuest/writeups#os-command-injection-sin-burpsuite)
+	* [Information disclosure](https://github.com/kaniehuest/writeups#information-disclosure)
+- [Hack This Site](https://github.com/kaniehuest/writeups#hack-this-site)
+	* [Basic](https://github.com/kaniehuest/writeups#basic)
+- [OverTheWire](https://github.com/kaniehuest/writeups#overthewire)
+	* [Natas](https://github.com/kaniehuest/writeups#natas)
 
 
 
