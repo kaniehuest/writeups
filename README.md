@@ -132,6 +132,7 @@ Link de la página: https://portswigger.net/web-security
 |Information disclosure on debug page|[Link](./PortSwigger%2FInformation%20disclosure%2FInformation%20disclosure%20on%20debug%20page.md)|
 |Source code disclosure via backup files|[Link](./PortSwigger%2FInformation%20disclosure%2FSource%20code%20disclosure%20via%20backup%20files.md)|
 |Authentication bypass via information disclosure|[Link](./PortSwigger%2FInformation%20disclosure%2FAuthentication%20bypass%20via%20information%20disclosure.md)|
+|Information disclosure in version control history|[Link](./PortSwigger%2FInformation%20disclosure%2FInformation%20disclosure%20in%20version%20control%20history.md)|
 
 
 
