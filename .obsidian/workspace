@@ -130,15 +130,15 @@
   },
   "active": "d4705169124115a9",
   "lastOpenFiles": [
-    "Hack This Site/realistic/Uncle Arnold's Local Band Review.md",
-    "Hack This Site/realistic/Chicago American Nz Party.md",
+    "PortSwigger/Information disclosure/Authentication bypass via information disclosure.md",
     "README.md",
-    "Hack This Site/basic/Level 2.md",
-    "Hack This Site/basic/Level 5.md",
-    "PortSwigger/Information disclosure/Source code disclosure via backup files.md",
+    "PortSwigger/Information disclosure/Information disclosure in error messages.md",
     "PortSwigger/Information disclosure/Information disclosure on debug page.md",
-    "OverTheWire/Natas/level 1 -> 2.md",
-    "OverTheWire/Natas/level 0.md",
-    "OverTheWire/Natas/level 0 -> 1.md"
+    "PortSwigger/Information disclosure/Source code disclosure via backup files.md",
+    "PortSwigger/Information disclosure/imagenes/lab4-29.png",
+    "PortSwigger/Information disclosure/imagenes/lab4-28.png",
+    "PortSwigger/Information disclosure/imagenes/lab4-27.png",
+    "PortSwigger/Information disclosure/imagenes/lab4-26.png",
+    "PortSwigger/Information disclosure/imagenes/lab4-25.png"
   ]
 }

@@ -15,7 +15,7 @@ Una colección de mis writeups sobre retos de la categoría web.
 	* [Authentication vulnerabilities](https://github.com/kaniehuest/writeups#authentication-vulnerabilities)
 	* [Directory traversal](https://github.com/kaniehuest/writeups#directory-traversal)
 	* [OS command injection (Sin Burpsuite)](https://github.com/kaniehuest/writeups#os-command-injection-sin-burpsuite)
-	* [Information disclosure](https://github.com/kaniehuest/writeups#information-disclosure)
+	* [Information disclosure (Sin Burpsuite)](https://github.com/kaniehuest/writeups#information-disclosure-sin-burpsuite)
 - [Hack This Site](https://github.com/kaniehuest/writeups#hack-this-site)
 	* [Basic](https://github.com/kaniehuest/writeups#basic)
 	* [Realistic](https://github.com/kaniehuest/writeups#realistic)
@@ -125,12 +125,13 @@ Link de la página: https://portswigger.net/web-security
 |Blind OS command injection with time delays|[Link](./PortSwigger%2FOS%20command%20injection%2FBlind%20OS%20command%20injection%20with%20time%20delays.md)|
 |Blind OS command injection with output redirection|[Link](./PortSwigger%2FOS%20command%20injection%2FBlind%20OS%20command%20injection%20with%20output%20redirection.md)|
 
-### Information disclosure
+### Information disclosure (Sin Burpsuite)
 |Nombre del reto|Link|
 |--|--|
 |Information disclosure in error messages|[Link](./PortSwigger%2FInformation%20disclosure%2FInformation%20disclosure%20in%20error%20messages.md)|
 |Information disclosure on debug page|[Link](./PortSwigger%2FInformation%20disclosure%2FInformation%20disclosure%20on%20debug%20page.md)|
 |Source code disclosure via backup files|[Link](./PortSwigger%2FInformation%20disclosure%2FSource%20code%20disclosure%20via%20backup%20files.md)|
+|Authentication bypass via information disclosure|[Link](./PortSwigger%2FInformation%20disclosure%2FAuthentication%20bypass%20via%20information%20disclosure.md)|
 
 
 
